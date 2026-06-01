@@ -1,4 +1,4 @@
-# optpricer the Options Pricer
+# optpricer 
 
 A command line options pricing tool built in C++ that computes theoretical prices and greeks for European call and put options using both Black Scholes and Monte Carlo simulation.
 
